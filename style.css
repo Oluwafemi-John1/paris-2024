@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.firstDiv {
+    background: url('images/volleyball.jpg');
+    background-size: cover;
+    height: 100vh !important;
+}
+
+.secondDiv {
+    background: #c9bbb5
+}
+
+.error {
+    display: none;
+}
